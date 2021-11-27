@@ -1,5 +1,4 @@
 ### Hi there, I'm Yoandre! 🖖
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yoandresaav/)](https://www.linkedin.com/in/yoandresaav/)
 
 Django/React Developer
 
