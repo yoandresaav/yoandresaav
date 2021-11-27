@@ -32,5 +32,7 @@ Django/React Developer
 
 
 ![image](https://github-readme-stats.vercel.app/api?username=yoandresaav)
+
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=yoandresaav)
+
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=yoandresaav)
