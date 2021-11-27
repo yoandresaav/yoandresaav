@@ -30,5 +30,4 @@ Django/React Developer
 ![image](https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
 ![image](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
 
-## Most Used Languages
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=yoandresaav)
