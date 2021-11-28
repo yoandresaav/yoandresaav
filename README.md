@@ -1,8 +1,9 @@
 ### Hi there, I'm Yoandre! 🖖
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/yoandresaav/)](https://www.linkedin.com/in/yoandresaav/)
-![image](https://img.shields.io/github/last-commit/yoandresaav/yoandresaav)
 
 Django/React Developer
+
+![image](https://img.shields.io/github/last-commit/yoandresaav/yoandresaav)
 
 ### Languages
 ![image](https://img.shields.io/badge/Python-Avanzado-brightgreen?style=for-the-badge&logo=python&logoColor=white)
