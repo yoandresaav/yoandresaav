@@ -3,7 +3,7 @@
 [![Personal Blog](https://img.shields.io/badge/-PersonalBlog-blue?style=&logoColor=white&link=https://yoandresaav.github.io/blog/)](https://yoandresaav.github.io/blog/)
 [![Stack Overflow(Spanish)](https://img.shields.io/badge/-StackOverflowProfile-yellow?style=&logo=StackOverflow&logoColor=white&link=https://es.stackoverflow.com/users/63995/yoandre-saavedra/)](https://es.stackoverflow.com/users/63995/yoandre-saavedra)
 
-Django/React Developer
+Django-REST/React Developer
 
 ![image](https://img.shields.io/github/last-commit/yoandresaav/yoandresaav)
 
@@ -16,8 +16,8 @@ Django/React Developer
 ![image](https://img.shields.io/badge/React-Medio-yellow?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Editors
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ### Planification
 ![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
@@ -42,3 +42,4 @@ Django/React Developer
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=yoandresaav)
 
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=yoandresaav)
+![Yoandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoandresaav&show_icons=true&theme=radical)
